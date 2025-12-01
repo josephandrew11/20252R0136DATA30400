@@ -1,0 +1,2 @@
+emb/*.jsonl filter=lfs diff=lfs merge=lfs -text
+Alibaba-NLP:gte-base-en-v1.5_embedding/*.npy filter=lfs diff=lfs merge=lfs -text
